@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/i_exit" android:title="@string/i_exit"></item>
+    <item android:id="@+id/i_host" android:title="Change Server"></item>
+    <item android:id="@+id/i_name" android:title="Change Username"></item>
+
+</menu>

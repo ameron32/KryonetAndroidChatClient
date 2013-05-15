@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChatClientTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="blank"/>
+    <string name="menu_exit">Exit</string>
+    <string name="b_send">Send</string>
+    <string name="eth_message">Message</string>
+    <string name="i_exit">Exit</string>
+    <string name="versionNumber">0.9.81</string>
+
+</resources>
